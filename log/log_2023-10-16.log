@@ -1,0 +1,5 @@
+WARNING 2023-10-16 13:02:14,880 views 27808 5584 Homepage was accessed by  admin
+WARNING 2023-10-16 13:02:14,936 views 27808 5584 Homepage was accessed by  admin
+INFO 2023-10-16 13:02:22,510 views 27808 16048 GET/ API call received for TaskViewSet list 
+WARNING 2023-10-16 13:02:24,379 views 27808 22536 Homepage was accessed by  admin
+INFO 2023-10-16 13:02:26,411 views 27808 24628 GET/ API call received for TaskViewSet list 

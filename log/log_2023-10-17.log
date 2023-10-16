@@ -1,0 +1,7 @@
+INFO 2023-10-17 17:18:49,532 views 18244 10652 GET/ API call received for TaskViewSet list 
+WARNING 2023-10-17 17:18:51,697 views 18244 12172 Homepage was accessed by  admin
+WARNING 2023-10-17 17:30:22,716 views 19200 12208 Homepage was accessed by  admin
+WARNING 2023-10-17 17:30:55,878 views 19200 16504 Homepage was accessed by  admin
+WARNING 2023-10-17 17:31:01,455 views 19200 16504 Homepage was accessed by  admin
+WARNING 2023-10-17 17:31:07,440 views 19200 16504 Homepage was accessed by  admin
+INFO 2023-10-17 17:31:21,306 views 19200 12492 GET/ API call received for TaskViewSet list 
