@@ -6,4 +6,4 @@ class FirstTestCase(TestCase):
         print("setup called")
 
     def test_equal(self):
-        self.assertEqual(1, 1)
+        self.assertEqual(2,2)
