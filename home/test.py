@@ -8,3 +8,5 @@ class FirstTestCase(TestCase):
 
     def test_equal(self):
         self.assertEqual(2, 2)
+        response = self.client.get('/task2/')
+        self.assertEqual(response.data, {'taskTitle': 'heo', 'taskDesc': 'df'})
