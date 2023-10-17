@@ -1,5 +1,5 @@
 from django.test import TestCase
-from rest_framework import status, response
+from rest_framework import status
 
 
 class FirstTestCase(TestCase):
