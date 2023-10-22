@@ -6,7 +6,7 @@ from .models import Task
 
 class FirstTestCase(TestCase):
     def setUp(self):
-        Task.objects.create(taskTitle='heo', taskDesc='df')
+        Task.objects.create(taskTitle='heao', taskDesc='df')
 
     def test_api_response(self):
         api_response = self.client.get('/task3/')
